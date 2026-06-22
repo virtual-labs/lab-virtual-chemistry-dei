@@ -6,7 +6,7 @@
   },
   "lab": "Chemistry Virtual Lab",
   "lab_display_name": "Chemistry Virtual Lab",
-  "phase": "2",
+  "phase": 2,
   "collegeName": "DLBG",
   "baseUrl": "vc-dei.vlabs.ac.in",
   "introduction": "The Chemistry Virtual Laboratory provides an interactive platform for understanding and performing analytical techniques used in the identification and quantification of important chemical constituents in food products and biological samples. The experiments included in this laboratory focus on the estimation and analysis of compounds such as caffeine, amino acids, cholesterol, sugars, urea, machine oil contaminants, oxytocin, capsaicin, and embelin using standard analytical methods.</br>These virtual experiments are designed to help students develop practical knowledge of food analysis, quality assessment, and biochemical testing without the constraints of a physical laboratory. Through simulation-based learning, students can familiarize themselves with laboratory procedures, instrumentation, calculations, data interpretation, and safety considerations. The laboratory aims to strengthen the understanding of food chemistry principles while providing hands-on experience in analytical techniques relevant to food science, biotechnology, chemistry, and related disciplines.",
