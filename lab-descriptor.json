@@ -15,63 +15,63 @@
       "name": "Caffeine content in tea and coffee",
       "short-name": "caffeine-content",
       "repo": "https://github.com/virtual-labs/exp-caffeine-content-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimation of amino acids in coconut water",
       "short-name": "aminoacids-estimation",
       "repo": "https://github.com/virtual-labs/exp-aminoacids-estimation-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimation of Cholesterol in edible oils",
       "short-name": "cholesterol-estimation",
       "repo": "https://github.com/virtual-labs/exp-cholesterol-estimation-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Analysis of Lactose & Cane sugar",
       "short-name": "sugar-analysis",
       "repo": "https://github.com/virtual-labs/exp-sugar-analysis-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Analysis of Urea",
       "short-name": "urea-analysis",
       "repo": "https://github.com/virtual-labs/exp-urea-analysis-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Analysis of Machine Oil",
       "short-name": "machineoil-analysis",
       "repo": "https://github.com/virtual-labs/exp-machineoil-analysis-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimation of Oxytocin in Various Edibles",
       "short-name": "oxytocin-estimation",
       "repo": "https://github.com/virtual-labs/exp-oxytocin-estimation-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimation of Capsaicin in Capsicum",
       "short-name": "capsaicin-estimation",
       "repo": "https://github.com/virtual-labs/exp-capsaicin-estimation-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
       "short-name": "embelin-estimation",
       "repo": "https://github.com/virtual-labs/exp-embelin-estimation-dei",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
