@@ -71,7 +71,7 @@
       "name": "Estimation of Embelin content in Embelia ribes (kali mirch) and Tamarind",
       "short-name": "embelin-estimation",
       "repo": "https://github.com/virtual-labs/exp-embelin-estimation-dei",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     }
   ],
