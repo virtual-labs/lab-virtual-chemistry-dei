@@ -4,8 +4,8 @@
     "link": "http://www.vlab.co.in/broad-area-chemical-sciences",
     "code": "CHEMSCI"
   },
-  "lab": "Chemistry Virtual Lab",
-  "lab_display_name": "Chemistry Virtual Lab",
+  "lab": "Virtual Chemistry Lab",
+  "lab_display_name": "Virtual Chemistry Lab",
   "phase": 2,
   "collegeName": "DLBG",
   "baseUrl": "vc-dei.vlabs.ac.in",
